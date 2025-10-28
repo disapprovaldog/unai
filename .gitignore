@@ -1,0 +1,31 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# PowerShell
+*.ps1~
+*.psm1~
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Editor/IDE files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test/debug output
+test-output/
+debug/
